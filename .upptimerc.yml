@@ -64,7 +64,7 @@ status-website:
   cname: twitch.chiquicalris.me
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Twitch Status
   introTitle: "Check the status of the **twitch chat servers**!"
   introMessage: Your chat does not work, is it laggy? We also had that problem, which is why we made this page, to be able to monitor the status of all Twitch chat servers in a rigorous direct manner.
   navbar:
