@@ -3,14 +3,60 @@ owner: chiquidev # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 100.20.159.232 (Port 80)
+    url: 100.20.159.232
+  - name: 34.217.198.238 (Port 80)
+    url: 34.217.198.238
+  - name: 35.82.188.4 (Port 80)
+    url: 35.82.188.4
+  - name: 35.83.19.234 (Port 80)
+    url: 35.83.19.234
+  - name: 44.224.228.96 (Port 80)
+    url: 44.224.228.96
+  - name: 44.226.36.141 (Port 80)
+    url: 44.226.36.141
+  - name: 44.239.110.244 (Port 80)
+    url: 44.239.110.244
+  - name: 44.239.252.6 (Port 80)
+    url: 44.239.252.6
+  - name: 52.10.182.227 (Port 80)
+    url: 52.10.182.227
+  - name: 52.33.222.227 (Port 80)
+    url: 52.33.222.227
+  - name: 54.203.158.65 (Port 80)
+    url: 54.203.158.65
+  - name: 100.20.159.232 (Port 443, Secure)
+    url: 100.20.159.232
+  - name: 34.217.198.238 (Port 443, Secure)
+    url: 34.217.198.238
+  - name: 35.82.188.4 (Port 443, Secure)
+    url: 35.82.188.4
+  - name: 35.83.19.234 (Port 443, Secure)
+    url: 35.83.19.234
+  - name: 44.224.228.96 (Port 443, Secure)
+    url: 44.226.36.141
+  - name: 44.239.110.244 (Port 443, Secure)
+    url: 44.239.110.244
+  - name: 44.239.252.6 (Port 443, Secure)
+    url: 44.239.252.6
+  - name: 52.10.182.227 (Port 443, Secure)
+    url: 52.10.182.227
+  - name: 52.33.222.227 (Port 443, Secure)
+    url: 52.33.222.227
+    
+    
+  - name: 54.203.158.65 (Port 443, Secure)
+    url: 54.203.158.65
+  - name: 34.217.198.238 (Port 6667)
+    url: 34.217.198.238
+  - name: 44.226.36.141 (Port 6667)
+    url: 44.226.36.141
+  - name: 100.20.159.232 (Port 6697, Secure)
+    url: 100.20.159.232
+  - name: 34.217.198.238 (Port 6697, Secure)
+    url: 34.217.198.238
+  - name: 44.226.36.141 (Port 6697, Secure)
+    url: 44.226.36.141
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,8 +65,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Check the status of the **twitch chat servers**!"
+  introMessage: Your chat does not work, is it laggy? We also had that problem, which is why we made this page, to be able to monitor the status of all Twitch chat servers in a rigorous direct manner.
   navbar:
     - title: Status
       href: /
