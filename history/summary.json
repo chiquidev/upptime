@@ -265,7 +265,7 @@
     "time": 95,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 70,
+    "timeMonth": 0,
     "timeYear": 95,
     "dailyMinutesDown": {}
   },
@@ -346,7 +346,7 @@
     "url": "52.33.222.227",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "52-33-222-227-port-443-secure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -373,7 +373,7 @@
     "time": 99,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 43,
+    "timeMonth": 0,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
