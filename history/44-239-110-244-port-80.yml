@@ -1,7 +1,7 @@
 url: 44.239.110.244
-status: up
-code: 200
-responseTime: 420
-lastUpdated: 2022-08-10T18:45:23.946Z
+status: down
+code: 502
+responseTime: 157
+lastUpdated: 2022-08-10T21:04:05.431Z
 startTime: Fri Dec 17 2021 16:44:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
