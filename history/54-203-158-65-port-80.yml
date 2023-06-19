@@ -1,7 +1,7 @@
 url: 54.203.158.65
 status: down
-code: 500
-responseTime: 27701
-lastUpdated: 2023-06-18T23:09:26.939Z
+code: 503
+responseTime: 108
+lastUpdated: 2023-06-19T23:08:35.431Z
 startTime: Fri Dec 17 2021 16:45:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
