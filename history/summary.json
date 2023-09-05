@@ -130,17 +130,17 @@
     "url": "44.239.252.6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "44-239-252-6-port-80",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 132,
-    "timeYear": 121,
+    "time": 135,
+    "timeDay": 91,
+    "timeWeek": 91,
+    "timeMonth": 127,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 68,
     "timeWeek": 86,
     "timeMonth": 86,
-    "timeYear": 369,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
