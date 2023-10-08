@@ -1,7 +1,7 @@
 url: 44.224.228.96
-status: up
-code: 200
-responseTime: 169
-lastUpdated: 2023-10-08T10:34:31.452Z
+status: down
+code: 503
+responseTime: 42
+lastUpdated: 2023-10-08T10:45:59.142Z
 startTime: 2021-12-17T16:44:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
