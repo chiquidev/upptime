@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 0,
-    "timeWeek": 460,
+    "timeWeek": 608,
     "timeMonth": 1027,
     "timeYear": 245,
     "dailyMinutesDown": {}
@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 204,
     "timeDay": 0,
-    "timeWeek": 119,
+    "timeWeek": 74,
     "timeMonth": 317,
     "timeYear": 206,
     "dailyMinutesDown": {}
@@ -346,7 +346,7 @@
     "url": "52.33.222.227",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "52-33-222-227-port-443-secure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
