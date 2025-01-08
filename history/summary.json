@@ -4,17 +4,17 @@
     "url": "100.20.159.232",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "100-20-159-232-port-80",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 4215,
+    "timeDay": 4215,
+    "timeWeek": 4215,
+    "timeMonth": 4215,
+    "timeYear": 4215,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 647,
+    "timeYear": 668,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 274,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   },
   {
