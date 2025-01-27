@@ -1,7 +1,7 @@
 url: 52.33.222.227
-status: up
-code: 200
-responseTime: 51
-lastUpdated: 2025-01-27T06:17:00.819Z
+status: down
+code: 503
+responseTime: 7369
+lastUpdated: 2025-01-27T07:14:57.488Z
 startTime: 2021-12-17T16:45:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
