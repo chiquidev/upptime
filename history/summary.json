@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 164,
-    "timeWeek": 114,
+    "timeDay": 0,
+    "timeWeek": 105,
     "timeMonth": 119,
     "timeYear": 125,
     "dailyMinutesDown": {}
@@ -76,17 +76,17 @@
     "url": "44.224.228.96",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "44-224-228-96-port-80",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 114,
-    "timeYear": 146,
+    "time": 148,
+    "timeDay": 1134,
+    "timeWeek": 1134,
+    "timeMonth": 624,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 70,
-    "timeYear": 135,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 303,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 148,
+    "timeMonth": 153,
     "timeYear": 326,
     "dailyMinutesDown": {}
   },
@@ -193,8 +193,8 @@
     "time": 166,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 117,
-    "timeYear": 161,
+    "timeMonth": 118,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   },
   {
@@ -263,9 +263,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 347,
-    "timeDay": 164,
-    "timeWeek": 114,
-    "timeMonth": 127,
+    "timeDay": 0,
+    "timeWeek": 105,
+    "timeMonth": 124,
     "timeYear": 350,
     "dailyMinutesDown": {}
   },
