@@ -245,10 +245,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 152,
+    "timeDay": 0,
     "timeWeek": 110,
     "timeMonth": 119,
-    "timeYear": 144,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -256,14 +256,14 @@
     "url": "35.83.19.234",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "35-83-19-234-port-443-secure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 145,
+    "timeDay": 138,
     "timeWeek": 138,
     "timeMonth": 131,
     "timeYear": 331,
@@ -338,7 +338,7 @@
     "timeDay": 0,
     "timeWeek": 1970,
     "timeMonth": 1970,
-    "timeYear": 222,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
