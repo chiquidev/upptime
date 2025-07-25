@@ -1,7 +1,7 @@
 url: 52.10.182.227
-status: up
-code: 200
-responseTime: 42
-lastUpdated: 2025-07-24T23:12:17.428Z
+status: down
+code: 503
+responseTime: 171
+lastUpdated: 2025-07-25T18:57:05.633Z
 startTime: 2021-12-17T16:45:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
