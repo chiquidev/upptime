@@ -40,7 +40,7 @@
     "url": "35.82.188.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "35-82-188-4-port-80",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 152,
     "timeDay": 0,
-    "timeWeek": 111,
+    "timeWeek": 110,
     "timeMonth": 116,
     "timeYear": 143,
     "dailyMinutesDown": {}
@@ -372,7 +372,7 @@
     "uptimeYear": "100.00%",
     "time": 165,
     "timeDay": 0,
-    "timeWeek": 110,
+    "timeWeek": 109,
     "timeMonth": 115,
     "timeYear": 161,
     "dailyMinutesDown": {}
