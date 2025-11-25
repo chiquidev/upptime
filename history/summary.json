@@ -140,7 +140,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 112,
-    "timeYear": 508,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   },
   {
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 0,
-    "timeWeek": 105,
+    "timeWeek": 43,
     "timeMonth": 105,
     "timeYear": 146,
     "dailyMinutesDown": {}
@@ -256,17 +256,17 @@
     "url": "35.83.19.234",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "35-83-19-234-port-443-secure",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 0,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 363,
+    "time": 366,
+    "timeDay": 7306,
+    "timeWeek": 1891,
+    "timeMonth": 1891,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   },
   {
@@ -372,7 +372,7 @@
     "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 0,
-    "timeWeek": 97,
+    "timeWeek": 43,
     "timeMonth": 97,
     "timeYear": 164,
     "dailyMinutesDown": {}
