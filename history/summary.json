@@ -49,7 +49,7 @@
     "time": 120,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 125,
+    "timeMonth": 124,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "35.83.19.234",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "35-83-19-234-port-80",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -83,8 +83,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 80,
-    "timeWeek": 79,
+    "timeDay": 0,
+    "timeWeek": 74,
     "timeMonth": 107,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -137,9 +137,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 83,
-    "timeWeek": 90,
-    "timeMonth": 115,
+    "timeDay": 0,
+    "timeWeek": 85,
+    "timeMonth": 113,
     "timeYear": 503,
     "dailyMinutesDown": {}
   },
@@ -176,7 +176,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 126,
-    "timeYear": 118,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   },
   {
@@ -247,7 +247,7 @@
     "time": 117,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 118,
+    "timeMonth": 115,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 137,
     "timeDay": 82,
     "timeWeek": 77,
-    "timeMonth": 111,
+    "timeMonth": 109,
     "timeYear": 144,
     "dailyMinutesDown": {}
   },
@@ -356,7 +356,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 125,
-    "timeYear": 231,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
